@@ -1,0 +1,8 @@
+{
+  "name": "Alquimia Radar - Inteligencia Competitiva B2B",
+  "description": "Plataforma de inteligencia competitiva, auditoría de pauta publicitaria, monitoreo de redes y medios para Alquimia LF y el sector químico en Colombia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
